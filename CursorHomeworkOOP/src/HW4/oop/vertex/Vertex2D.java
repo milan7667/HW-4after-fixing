@@ -1,4 +1,4 @@
-package hw4.Vertex;
+package hw4.vertex;
 
 public class Vertex2D extends Vertex {
 
