@@ -1,6 +1,6 @@
-package hw4.shape.Space;
+package hw4.shape.space;
 
-import hw4.Vertex.Vertex3D;
+import hw4.vertex.Vertex3D;
 import hw4.interfaces.AreaMeasurable;
 import hw4.interfaces.Shape;
 import hw4.interfaces.VolumeMeasurable;
@@ -9,6 +9,5 @@ public abstract class SpaceShape extends Shape implements AreaMeasurable, Volume
 
     public SpaceShape(Vertex3D vertexA) {
         super(vertexA);
-
     }
 }
