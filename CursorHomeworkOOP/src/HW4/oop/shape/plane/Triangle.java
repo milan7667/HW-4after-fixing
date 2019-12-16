@@ -1,7 +1,7 @@
 package hw4.shape.Plane;
 
-import hw4.Vertex.Vertex;
-import hw4.Vertex.Vertex2D;
+import hw4.vertex.Vertex;
+import hw4.vertex.Vertex2D;
 import hw4.interfaces.AreaMeasurable;
 import hw4.interfaces.PerimeterMeasurable;
 
