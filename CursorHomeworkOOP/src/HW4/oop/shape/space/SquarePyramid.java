@@ -1,6 +1,6 @@
-package hw4.shape.Space;
+package hw4.shape.space;
 
-import hw4.Vertex.Vertex3D;
+import hw4.vertex.Vertex3D;
 
 public class SquarePyramid extends SpaceShape {
 
