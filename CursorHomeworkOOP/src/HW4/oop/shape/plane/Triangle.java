@@ -1,4 +1,4 @@
-package hw4.shape.Plane;
+package hw4.shape.plane;
 
 import hw4.vertex.Vertex;
 import hw4.vertex.Vertex2D;
